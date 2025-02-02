@@ -8,7 +8,7 @@ and finally drift monitoring with libraries like Evidently.
 > **Note**: The book is not yet published, so the code here may be subject to changes or updates
 as the manuscript evolves.
 
-## Repository Structure
+## Repository Structure (will be updated)
 
 - **chapter3/**  
   Placeholder folder for Chapter 3 content. (`.gitkeep` files ensure folders appear in Git.)
