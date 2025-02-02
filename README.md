@@ -1,9 +1,10 @@
 # Build Finance Applications with AI (Book Code Repository)
 
 This repository contains the **sample code, notebooks, and data** for the forthcoming book
-**_Build Finance Applications with AI_**. The content covers a **full end-to-end pipeline**:
-from data ingestion and BFSI-specific disclaimers to advanced modeling (e.g., manual WoE, OptBinning Scorecards),
-and finally drift monitoring with libraries like Evidently.
+**_Build Finance Applications with AI_**. 
+
+
+
 
 > **Note**: The book is not yet published, so the code here may be subject to changes or updates
 as the manuscript evolves.
